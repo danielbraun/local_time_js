@@ -2,7 +2,7 @@
 Basecamp's local_time Javascript parts extracted and compiled.
 
 ## CDN
-https://cdn.rawgit.com/danielbraun/local_time_js/master/local_time.js
+https://cdn.jsdelivr.net/gh/danielbraun/local_time_js/local_time.js
 
 ## How to build
 `make`
